@@ -1,0 +1,13 @@
+{
+    "login": {
+        "url": "https://indeedemo-fyc.watch.indee.tv/",
+        "pin": "WVMVHWBS"
+    },
+    "video_settings": {
+        "initial_volume": 5,
+        "resolutions": ["480p", "720p"]
+    },
+    "projects": {
+        "target_project": "Test Automation Project"
+    }
+}
